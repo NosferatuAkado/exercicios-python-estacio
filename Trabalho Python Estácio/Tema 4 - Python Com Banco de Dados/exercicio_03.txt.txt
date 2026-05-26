@@ -1,0 +1,10 @@
+Questão 3
+Enunciado: Durante a manutenção de um script Python que atualiza os preços de um catálogo de produtos em um banco de dados relacional, um programador percebe que as alterações feitas através do método execute() do cursor não estão sendo salvas permanentemente no banco de dados após o término da execução do script. Qual método do objeto de conexão deve ser chamado explicitamente para consolidar e salvar essas alterações?
+
+A) flush()
+B) commit()
+C) rollback()
+D) save()
+E) close()
+
+RESPOSTA CORRETA: B

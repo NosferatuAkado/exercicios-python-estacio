@@ -1,0 +1,11 @@
+Questão 7
+Enunciado: Uma empresa de TI opta pela metodologia RAD para um projeto de modernização de seu sistema interno. A equipe escolhida é composta por membros com habilidades diversificadas, capazes de trabalhar em diferentes aspectos do projeto de forma integrada.
+Qual característica da equipe é mais relevante para a eficácia da metodologia RAD neste projeto?
+
+A) Especialização em uma única área.
+B) Habilidades diversificadas.
+C) Experiência em projetos de longa duração.
+D) Preferência por processos formais.
+E) Foco em desenvolvimento independente.
+
+RESPOSTA CORRETA: B

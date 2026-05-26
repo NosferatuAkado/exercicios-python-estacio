@@ -1,0 +1,10 @@
+Questão 3
+Enunciado: Na biblioteca Tkinter, os componentes visuais que compõem uma interface gráfica (como botões, caixas de texto e rótulos) são genericamente chamados de "widgets". Para que um widget seja efetivamente exibido na tela dentro de sua janela pai, o programador precisa associá-lo a um gerenciador de geometria. Qual método é comumente utilizado para organizar os widgets em blocos horizontais ou verticais antes de exibir a interface?
+
+A) show()
+B) display()
+C) pack()
+D) render()
+E) place_widget()
+
+RESPOSTA CORRETA: C

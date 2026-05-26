@@ -1,0 +1,10 @@
+Questão 4
+Enunciado: Além do Tkinter, a biblioteca PyQt5 é amplamente utilizada no mercado para o desenvolvimento de interfaces gráficas profissionais em Python. Ao contrário do Tkinter, que usa o termo "widgets" para seus componentes, a PyQt5 baseia-se no framework Qt. Qual é a classe base para todos os objetos de interface de usuário na PyQt5?
+
+A) QWidget
+B) QWindow
+C) QComponent
+D) QObject
+E) QFrame
+
+RESPOSTA CORRETA: A

@@ -1,0 +1,10 @@
+Questão 6
+Enunciado: No processamento de dados textuais em Python, frequentemente encontramos caracteres de nova linha (\n) ou espaços em branco extras no final de cada linha lida de um arquivo. Para limpar esses dados antes do processamento, qual método de string é comumente aplicado a cada linha para remover os espaços em branco e caracteres de escape do início e do fim?
+
+A) split()
+B) replace()
+C) strip()
+D) clean()
+E) format()
+
+RESPOSTA CORRETA: C

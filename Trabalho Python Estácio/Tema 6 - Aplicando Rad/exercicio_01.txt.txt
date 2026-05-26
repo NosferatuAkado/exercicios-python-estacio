@@ -1,0 +1,10 @@
+Questão 1
+Enunciado: Ao construir interfaces gráficas complexas com Tkinter, o gerenciador de geometria 'pack()' pode se tornar limitado. Para criar layouts baseados em uma estrutura de tabela (linhas e colunas), o Tkinter oferece outro gerenciador de geometria muito mais preciso. Qual é esse gerenciador?
+
+A) table()
+B) grid()
+C) place()
+D) layout()
+E) matrix()
+
+RESPOSTA CORRETA: B

@@ -1,0 +1,10 @@
+Questão 6
+Enunciado: Em uma aplicação financeira em Python, uma sequência de operações de débito e crédito precisa ser realizada em um banco de dados. Se qualquer uma das operações falhar no meio do processo, o saldo das contas ficará inconsistente. Para evitar isso, o desenvolvedor deve garantir o princípio da atomicidade das transações. Caso ocorra uma exceção durante o processamento, qual método do objeto de conexão deve ser chamado no bloco 'except' para desfazer todas as alterações não consolidadas?
+
+A) commit()
+B) undo()
+C) rollback()
+D) reset()
+E) cancel()
+
+RESPOSTA CORRETA: C

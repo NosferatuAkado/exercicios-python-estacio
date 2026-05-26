@@ -1,0 +1,11 @@
+Questão 10
+Enunciado: Em uma empresa de software, um novo projeto é iniciado usando a metodologia RAD. O objetivo é desenvolver rapidamente um aplicativo web customizado para um cliente, permitindo a modificação contínua do protótipo durante o desenvolvimento.
+Qual é um dos principais benefícios do uso da metodologia RAD neste cenário?
+
+A) Menor custo de desenvolvimento.
+B) Independência de feedback do cliente.
+C) Maior segurança no código.
+D) Rápida adaptação a mudanças.
+E) Menos necessidade de testes.
+
+RESPOSTA CORRETA: D

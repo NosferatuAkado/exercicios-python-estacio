@@ -1,0 +1,10 @@
+Questão 5
+Enunciado: Em uma interface gráfica desenvolvida com Tkinter, um usuário clica em um botão chamado "Calcular". Para que a aplicação execute uma função específica em resposta a esse clique, o programador deve associar essa função ao botão durante a sua criação. Qual argumento nomeado (parâmetro) do construtor do widget Button é utilizado para definir a função de retorno (callback) que será executada no clique?
+
+A) action
+B) command
+C) onclick
+D) callback
+E) event
+
+RESPOSTA CORRETA: B

@@ -1,0 +1,10 @@
+Questão 9
+Enunciado: Um desenvolvedor precisa criar um arquivo binário para armazenar uma imagem compactada usando um script Python. Para garantir que o arquivo seja tratado corretamente como binário e que novos dados substituam qualquer conteúdo anterior, qual combinação de modos deve ser utilizada na função open()?
+
+A) "t"
+B) "wb"
+C) "rb"
+D) "w+"
+E) "ab"
+
+RESPOSTA CORRETA: B

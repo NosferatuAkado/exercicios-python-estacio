@@ -1,0 +1,10 @@
+Questão 2
+Enunciado: Um desenvolvedor está criando um formulário de cadastro em Python com Tkinter e precisa adicionar um campo onde o usuário possa digitar seu nome completo. Qual widget do Tkinter é o mais adequado para permitir a entrada de texto de uma única linha por parte do usuário?
+
+A) Text
+B) Label
+C) Button
+D) Entry
+E) Checkbutton
+
+RESPOSTA CORRETA: D

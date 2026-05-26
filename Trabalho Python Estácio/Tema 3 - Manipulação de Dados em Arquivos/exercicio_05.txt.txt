@@ -1,0 +1,10 @@
+Questão 5
+Enunciado: Um programador está desenvolvendo uma aplicação em Python que precisa ler dados de um arquivo de texto. No entanto, existe a possibilidade de o arquivo não estar presente no diretório especificado, o que causaria um erro em tempo de execução (FileNotFoundError). Para tornar a aplicação mais robusta, qual estrutura de controle deve ser utilizada para capturar e tratar essa exceção adequadamente?
+
+A) if...else
+B) for...in
+C) try...except
+D) while...break
+E) switch...case
+
+RESPOSTA CORRETA: C

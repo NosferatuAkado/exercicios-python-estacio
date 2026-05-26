@@ -1,0 +1,11 @@
+Questão 4
+Enunciado: Uma startup decide adotar a metodologia RAD para o desenvolvimento de seu novo aplicativo móvel. A equipe é pequena e a comunicação interna é ágil, facilitando a implementação de mudanças rápidas conforme solicitado pelos stakeholders.
+Qual aspecto da equipe contribui significativamente para o sucesso da aplicação da metodologia RAD neste caso?
+
+A) Grande número de desenvolvedores.
+B) Comunicação ágil e eficiente.
+C) Uso extensivo de documentação.
+D) Longo prazo de desenvolvimento.
+E) Alta complexidade do projeto.
+
+RESPOSTA CORRETA: B

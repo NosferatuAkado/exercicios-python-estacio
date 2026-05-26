@@ -1,0 +1,10 @@
+Questão 5
+Enunciado: As fases da metodologia RAD estão interrelacionadas entre si no sentido que apenas quando uma fase estiver concluída, a próxima pode iniciar. Em relação às fases da metodologia de desenvolvimento RAD, selecione a opção CORRETA:
+
+A) A flexibilidade da metodologia RAD permite que o sequenciamento das fases de desenvolvimento seja ignorado, desde que em algum momento elas sejam executadas;
+B) A coleta de dados é feita na fase de modelagem de negócios e serão agrupados em estruturas de negócio na fase de prototipagem;
+C) O agrupamento dos dados em objetos de negócio é feito na fase de modelagem de dados;
+D) A fase de teste da metodologia RAD deve ser aplicada apenas para a funcionalidade que foi incluída no ciclo iterativo;
+E) Em cada uma das fases da metodologia RAD, o usuário pode incluir um novo requisito.
+
+RESPOSTA CORRETA: C

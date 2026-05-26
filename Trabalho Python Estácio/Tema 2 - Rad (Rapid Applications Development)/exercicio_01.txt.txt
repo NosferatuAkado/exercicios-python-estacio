@@ -1,0 +1,10 @@
+Questão 1
+Enunciado: A metodologia de desenvolvimento RAD possui diversas fases. Cada uma com objetivos específicos de modo a desenvolver um sistema rápido e em conformidade com os requisitos de negócios. Dentre as cinco fases apresentadas por James Kerr. É correto afirmar que:
+
+A) Os incrementos funcionais são feitos em cada uma das fases da metodologia RAD;
+B) A documentação referente aos requisitos funcionais do sistema são a fonte principal para fazer a modelagem de negócios;
+C) A partir da modelagem de negócios é iniciada a fase de modelagem de processos;
+D) A fase de testes pode iniciar logo depois da fase de modelagem de processos;
+E) A modelagem de negócio é obtida através das análises do fluxo e da obtenção de informações.
+
+RESPOSTA CORRETA: E

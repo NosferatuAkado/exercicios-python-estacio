@@ -1,0 +1,10 @@
+Questão 5
+Enunciado: Ao desenvolver um sistema de cadastro de usuários em Python integrado a um banco de dados, é crucial proteger a aplicação contra ataques de injeção de SQL (SQL Injection). Qual é a prática recomendada pela Python DB-API para passar parâmetros dinâmicos (como o nome e o e-mail digitados pelo usuário) para uma instrução SQL de forma segura?
+
+A) Utilizar a concatenação de strings com o operador "+".
+B) Utilizar a formatação de strings do Python com f-strings (ex: f"INSERT INTO... {nome}").
+C) Utilizar marcadores de posição (placeholders como "?" ou "%s") e passar os dados como uma tupla no método execute().
+D) Converter todos os dados de entrada para o tipo string antes de concatenar na consulta.
+E) Codificar a string SQL inteira em formato Base64 antes de enviar para o banco de dados.
+
+RESPOSTA CORRETA: C

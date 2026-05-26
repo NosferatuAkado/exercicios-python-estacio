@@ -1,0 +1,10 @@
+Questão 1
+Enunciado: Ao desenvolver aplicações desktop em Python, o programador tem à disposição diversas bibliotecas para a criação de Interfaces Gráficas de Usuário (GUI). Uma dessas bibliotecas já vem integrada por padrão na instalação padrão do Python, não exigindo a instalação de pacotes adicionais via 'pip'. Qual é essa biblioteca nativa?
+
+A) PyQt5
+B) Tkinter
+C) Kivy
+D) wxPython
+E) PySide2
+
+RESPOSTA CORRETA: B

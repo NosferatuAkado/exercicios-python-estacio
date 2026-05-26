@@ -1,0 +1,10 @@
+Questão 6
+Enunciado: A necessidade de imprimir eficiência no desenvolvimento de sistemas levou à criação da metodologia rápida de desenvolvimento de software, mais conhecida pela sigla em inglês: RAD (Rapid Application Development). Um dos princípios do RAD é a entrega contínua de produtos dentro do prazo. Nesse sentido, selecione a opção CORRETA:
+
+A) Isso permite que a equipe do projeto defina rapidamente a abordagem ideal para entregar o produto no tempo disponível;
+B) Isso permite reduzir custos, desde que, pelo menos, uma parte do sistema esteja funcionando corretamente;
+C) Este princípio garante que o produto terá menos erros;
+D) O prazo sempre deve ser respeitado, mesmo que não seja possível entregar o produto conforme programado;
+E) O desenvolvimento rápido sempre vai reduzir os custos do projeto.
+
+RESPOSTA CORRETA: A

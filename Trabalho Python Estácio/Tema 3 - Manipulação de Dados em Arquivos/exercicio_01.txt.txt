@@ -1,0 +1,10 @@
+Questão 1
+Enunciado: Na linguagem Python, a manipulação de arquivos é uma tarefa comum e essencial. Para abrir um arquivo para leitura, a função embutida open() é frequentemente utilizada com o modo apropriado. Se um desenvolvedor deseja abrir um arquivo texto chamado "dados.txt" de forma que possa ler seu conteúdo sem correr o risco de alterá-lo acidentalmente, qual das seguintes linhas de código deve ser utilizada?
+
+A) arquivo = open("dados.txt", "w")
+B) arquivo = open("dados.txt", "a")
+C) arquivo = open("dados.txt", "r")
+D) arquivo = open("dados.txt", "b")
+E) arquivo = open("dados.txt", "x")
+
+RESPOSTA CORRETA: C

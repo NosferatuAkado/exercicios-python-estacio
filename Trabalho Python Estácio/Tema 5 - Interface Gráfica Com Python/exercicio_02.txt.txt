@@ -1,0 +1,10 @@
+Questão 2
+Enunciado: No desenvolvimento de uma interface gráfica usando a biblioteca Tkinter em Python, o programador precisa criar a janela principal da aplicação, que servirá como o container base para todos os outros componentes visuais. Qual classe do Tkinter deve ser instanciada para criar essa janela raiz?
+
+A) Tkinter()
+B) Window()
+C) Tk()
+D) MainFrame()
+E) App()
+
+RESPOSTA CORRETA: C

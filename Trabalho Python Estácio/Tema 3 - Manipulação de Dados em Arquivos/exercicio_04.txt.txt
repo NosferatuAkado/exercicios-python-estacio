@@ -1,0 +1,10 @@
+Questão 4
+Enunciado: Em um sistema de gerenciamento de vendas, um script Python precisa registrar cada transação em um arquivo de texto chamado "historico.txt". É crucial que as novas transações sejam adicionadas ao final do arquivo, preservando todo o conteúdo existente. Qual modo de abertura deve ser passado como segundo argumento para a função open() para garantir esse comportamento?
+
+A) "r"
+B) "w"
+C) "a"
+D) "x"
+E) "r+"
+
+RESPOSTA CORRETA: C

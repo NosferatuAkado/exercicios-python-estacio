@@ -1,0 +1,10 @@
+Questão 10
+Enunciado: Um programador está desenvolvendo um script Python que precisa inserir múltiplos registros de uma só vez em uma tabela de histórico de acessos. Em vez de iterar sobre uma lista de dados e chamar o método execute() várias vezes em um loop, a DB-API oferece um método mais eficiente e performático para essa operação em lote. Qual é esse método?
+
+A) execute_all()
+B) executemany()
+C) execute_batch()
+D) execute_multiple()
+E) insertmany()
+
+RESPOSTA CORRETA: B

@@ -1,0 +1,10 @@
+Questão 7
+Enunciado: Um analista de dados está utilizando Python para explorar um banco de dados relacional que contém milhões de registros. Ele precisa processar os dados em lotes (chunks) de 500 em 500 linhas para não esgotar a memória RAM do servidor. Qual método do objeto cursor permite especificar a quantidade exata de linhas a serem recuperadas em cada chamada?
+
+A) fetchone()
+B) fetchall()
+C) fetchbatch()
+D) fetchmany(size=500)
+E) fetchlimit(500)
+
+RESPOSTA CORRETA: D

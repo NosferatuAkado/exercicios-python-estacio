@@ -1,0 +1,10 @@
+Questão 8
+Enunciado: Muitas aplicações Python modernas utilizam Mapeadores Objeto-Relacionais (ORMs), como o SQLAlchemy, em vez de escrever consultas SQL brutas. Qual é a principal vantagem conceitual do uso de um ORM no desenvolvimento de software em Python?
+
+A) Eliminar completamente a necessidade de ter um servidor de banco de dados instalado.
+B) Permitir a interação com o banco de dados usando conceitos de orientação a objetos, mapeando tabelas para classes Python.
+C) Tornar as consultas ao banco de dados sempre mais rápidas do que o SQL nativo.
+D) Garantir que o banco de dados armazene os dados em arquivos de texto simples (TXT) automaticamente.
+E) Substituir a necessidade de usar a linguagem Python para lógica de negócios.
+
+RESPOSTA CORRETA: B

@@ -1,0 +1,10 @@
+Questão 3
+Enunciado: Durante a análise de um grande arquivo de log contendo milhões de linhas, um desenvolvedor Python precisa ler o conteúdo do arquivo linha por linha para processar os dados sem sobrecarregar a memória do computador. Qual dos seguintes métodos do objeto de arquivo é o mais adequado para essa tarefa, permitindo a iteração eficiente sobre as linhas do arquivo?
+
+A) read()
+B) readlines()
+C) readall()
+D) readline()
+E) splitlines()
+
+RESPOSTA CORRETA: D

@@ -1,0 +1,10 @@
+Questão 1
+Enunciado: Ao desenvolver aplicações em Python que interagem com bancos de dados relacionais, os programadores utilizam uma API padrão conhecida como Python DB-API (PEP 249). Essa especificação garante consistência entre diferentes módulos de banco de dados. Qual é o primeiro passo obrigatório que um script Python deve executar para iniciar a interação com um banco de dados utilizando um módulo compatível com a DB-API?
+
+A) Criar um objeto de cursor utilizando o método cursor().
+B) Executar uma consulta SQL utilizando o método execute().
+C) Estabelecer uma conexão com o banco de dados utilizando a função connect().
+D) Confirmar as alterações no banco de dados utilizando o método commit().
+E) Fechar a conexão com o banco de dados utilizando o método close().
+
+RESPOSTA CORRETA: C

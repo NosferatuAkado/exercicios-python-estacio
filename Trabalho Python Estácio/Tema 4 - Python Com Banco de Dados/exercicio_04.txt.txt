@@ -1,0 +1,10 @@
+Questão 4
+Enunciado: Um desenvolvedor Python está escrevendo uma consulta para selecionar todos os registros da tabela "clientes" onde o status seja igual a "ativo". Ele utilizou o método execute() para rodar o comando SELECT. Agora, ele precisa recuperar todas as linhas retornadas por essa consulta de uma única vez na forma de uma lista de tuplas. Qual método do objeto cursor deve ser utilizado?
+
+A) fetchone()
+B) fetchmany()
+C) fetchall()
+D) fetchrows()
+E) fetchallrows()
+
+RESPOSTA CORRETA: C

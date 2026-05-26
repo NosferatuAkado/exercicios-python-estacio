@@ -1,0 +1,10 @@
+Questão 3
+Enunciado: Um dos princípios do RAD é "a adequação para fins comerciais é o critério essencial para aceitação de resultados". Nesse sentido, selecione a opção CORRETA:
+
+A) Este princípio garante que o produto terá menos erros e, consequentemente, terá menos vulnerabilidades;
+B) O foco deve ser voltado para cumprir os prazos pré-estabelecidos;
+C) O foco é fazer o desenvolvimento para atender aos requisitos funcionais;
+D) Significa que as melhores práticas para desenvolver um software seguro devem ser aplicadas;
+E) Permite que os desenvolvedores tomem a decisão sobre a aplicação das melhores soluções para o projeto.
+
+RESPOSTA CORRETA: B

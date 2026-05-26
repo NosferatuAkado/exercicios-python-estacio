@@ -1,0 +1,10 @@
+Questão 8
+Enunciado: A metodologia do RAD possui diversas vantagens e desvantagens em relação às metodologias de desenvolvimento tradicionais. Nesse sentido, selecione a opção correta sobre as características da metodologia RAD:
+
+A) Diferente de métodos tradicionais de desenvolvimento, a RAD demanda por intensa colaboração entre desenvolvedores e usuários;
+B) Apesar das diferenças dos métodos tradicionais, se assemelham no sentido de que os sistemas-alvo devem ser modularizados;
+C) No sentido de atingir a meta da rapidez do desenvolvimento, a metodologia RAD possui poucas reuniões;
+D) Os requisitos funcionais são determinados no início do projeto e não podem ser alterados ao longo do projeto de modo a atingir a rapidez do desenvolvimento;
+E) Uma das vantagens mais importantes da metodologia RAD é sua adequação para projetos complexos de grande escala.
+
+RESPOSTA CORRETA: A

@@ -1,0 +1,11 @@
+Questão 2
+Enunciado: Durante um curso de ciência da computação, um professor decide utilizar a metodologia RAD para ensinar desenvolvimento de software. Ele enfatiza a importância do desenvolvimento iterativo e da colaboração constante com os usuários finais do software.
+Qual é o foco principal da metodologia RAD destacado pelo professor neste contexto educacional?
+
+A) Programação em baixo nível.
+B) Desenvolvimento iterativo.
+C) Uso de linguagens de programação antigas.
+D) Enfoque em algoritmos complexos.
+E) Criação de documentação extensiva.
+
+RESPOSTA CORRETA: B

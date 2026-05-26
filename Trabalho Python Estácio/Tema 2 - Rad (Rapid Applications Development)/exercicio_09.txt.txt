@@ -1,0 +1,12 @@
+Questão 9
+Enunciado: Uma organização governamental adota a metodologia RAD para desenvolver um novo sistema de gestão. O projeto requer colaboração constante com várias partes interessadas, incluindo funcionários e cidadãos, para garantir que o sistema atenda a todas as necessidades identificadas.
+Qual elemento é crucial para o sucesso do projeto RAD em um ambiente governamental com múltiplos stakeholders?
+
+A) Estrutura hierárquica rígida.
+B) Colaboração constante com stakeholders.
+...
+C) Foco em tecnologias emergentes.
+D) Evitar feedback frequente.
+E) Priorizar o desenvolvimento autônomo.
+
+RESPOSTA CORRETA: B

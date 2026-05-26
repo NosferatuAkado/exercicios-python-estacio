@@ -1,0 +1,10 @@
+Questão 10
+Enunciado: Em Python, a função open() pode receber um argumento opcional chamado encoding para especificar o mapeamento de caracteres a ser usado na leitura ou escrita de arquivos de texto. Ao lidar com arquivos que contêm acentuação da língua portuguesa (como "ç", "á", "õ"), qual é o padrão de codificação mais recomendado e amplamente utilizado para evitar erros de decodificação (UnicodeDecodeError)?
+
+A) ASCII
+B) ISO-8859-1
+C) UTF-8
+D) UTF-16
+E) CP1252
+
+RESPOSTA CORRETA: C

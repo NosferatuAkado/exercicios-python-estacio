@@ -1,0 +1,10 @@
+Questão 7
+Enunciado: Um cientista de dados precisa salvar uma lista de dicionários estruturados, contendo informações de usuários, em um arquivo de texto. Ele decide utilizar o formato JSON por sua simplicidade e compatibilidade. Em Python, após importar o módulo json, qual função deve ser usada para converter o objeto Python e gravá-lo diretamente no arquivo aberto?
+
+A) json.loads()
+B) json.dumps()
+C) json.load()
+D) json.dump()
+E) json.write()
+
+RESPOSTA CORRETA: D

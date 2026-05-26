@@ -1,0 +1,10 @@
+Questão 2
+Enunciado: Ao trabalhar com arquivos em Python, é uma boa prática garantir que o arquivo seja fechado adequadamente após a conclusão das operações de leitura ou escrita, liberando assim os recursos do sistema. Python oferece uma estrutura que gerencia automaticamente a abertura e o fechamento de arquivos, mesmo que ocorram exceções durante o processamento. Qual é essa estrutura?
+
+A) O bloco try...except
+B) A cláusula with
+C) O comando close()
+D) O método flush()
+E) A instrução open()
+
+RESPOSTA CORRETA: B

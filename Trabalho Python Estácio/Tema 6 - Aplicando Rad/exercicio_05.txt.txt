@@ -1,0 +1,10 @@
+Questão 5
+Enunciado: Durante o desenvolvimento de um sistema desktop com múltiplas telas em Python utilizando Tkinter, um programador precisa exibir uma janela de diálogo simples para alertar o usuário sobre um erro crítico (ex: "Conexão com o banco falhou"). Qual módulo do Tkinter oferece funções prontas como 'showerror()' ou 'showinfo()' para abrir essas caixas de mensagem pop-up de forma rápida?
+
+A) tkinter.dialog
+B) tkinter.messagebox
+C) tkinter.popup
+D) tkinter.alert
+E) tkinter.window
+
+RESPOSTA CORRETA: B

@@ -1,0 +1,10 @@
+Questão 2
+Enunciado: Em um sistema de e-commerce desenvolvido em Python, um desenvolvedor precisa interagir com um banco de dados SQLite para buscar informações de produtos. Após estabelecer a conexão com o banco de dados através do módulo sqlite3, qual objeto o desenvolvedor deve criar para enviar comandos SQL e receber os resultados das consultas?
+
+A) Objeto de Conexão (Connection)
+B) Objeto de Cursor (Cursor)
+C) Objeto de Transação (Transaction)
+D) Objeto de Driver (Driver)
+E) Objeto de Declaração (Statement)
+
+RESPOSTA CORRETA: B

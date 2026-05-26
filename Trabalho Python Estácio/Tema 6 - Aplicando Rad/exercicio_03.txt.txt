@@ -1,0 +1,10 @@
+Questão 3
+Enunciado: Em aplicações GUI com Tkinter, após criar a janela principal, configurar os widgets e organizar a geometria, a interface ainda não aparecerá na tela e não responderá às ações do usuário até que o fluxo do programa entre em um loop infinito de gerenciamento de eventos. Qual método da janela principal deve ser chamado no final do script para iniciar esse ciclo?
+
+A) start()
+B) run()
+C) mainloop()
+D) execute()
+E) show_window()
+
+RESPOSTA CORRETA: C

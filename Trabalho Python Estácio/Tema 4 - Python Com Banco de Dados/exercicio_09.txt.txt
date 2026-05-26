@@ -1,0 +1,10 @@
+Questão 9
+Enunciado: Ao trabalhar com o módulo embutido sqlite3 em Python, o desenvolvedor pode passar a string especial ":memory:" como argumento para a função sqlite3.connect(). Qual é o comportamento do banco de dados quando essa configuração é utilizada?
+
+A) O SQLite cria um arquivo oculto criptografado na pasta do usuário.
+B) O banco de dados é criado inteiramente na memória RAM, sendo extremamente rápido, mas seus dados são perdidos quando a conexão é fechada.
+C) O SQLite conecta-se automaticamente a um servidor de banco de dados na nuvem da própria Estácio.
+D) Os dados são gravados diretamente na memória cache do processador do computador.
+E) O script gera um erro de execução, pois exige um caminho de arquivo válido (como "banco.db").
+
+RESPOSTA CORRETA: B

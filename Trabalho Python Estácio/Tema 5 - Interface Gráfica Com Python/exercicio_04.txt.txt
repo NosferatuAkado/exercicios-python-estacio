@@ -1,0 +1,10 @@
+Questão 4
+Enunciado: Um desenvolvedor está criando uma tela de login em Python com Tkinter e precisa adicionar um componente visual que exiba uma instrução em texto simples para o usuário, como "Digite sua senha:". Qual widget do Tkinter é o mais adequado para apenas exibir textos ou imagens estáticas na interface, sem permitir a edição direta pelo usuário?
+
+A) Entry
+B) Button
+C) Label
+D) Text
+E) Message
+
+RESPOSTA CORRETA: C

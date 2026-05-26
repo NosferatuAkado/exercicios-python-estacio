@@ -1,0 +1,10 @@
+Questão 8
+Enunciado: Ao manipular arquivos em ambientes multiprocessados ou em aplicações críticas, é fundamental garantir que os dados escritos no buffer de arquivo sejam efetivamente gravados no disco rígido antes de fechar o arquivo ou prosseguir. Qual método do objeto de arquivo força a gravação imediata dos dados do buffer para o disco?
+
+A) save()
+B) flush()
+C) sync()
+D) write()
+E) commit()
+
+RESPOSTA CORRETA: B
